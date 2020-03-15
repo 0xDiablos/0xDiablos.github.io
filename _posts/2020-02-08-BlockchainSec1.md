@@ -28,7 +28,7 @@ paginate: true
 this tutorial is one from upcoming tutorials for teaching how to get started in blockchain ctfs and teaching about security blockchain development.Prefer if you have some prerequisites about blockchain development solidity, deployment , remixIDE , truffle ...etc , but I will explain each step in more details.
 
 So lets get started with the first challenge on Capture the ether ctf plaform.
-#(Guess The Secret Number  300 Points)
+# (Guess The Secret Number  300 Points)
 
 Putting the answer in the code makes things a little too easy.
 
